@@ -5,7 +5,7 @@ import SearchBar from './components/Searchbar';
 import AppHeader from './components/AppHeader';
 import VideoList from './components/VideoList';
 
-const API_KEY = 'AIzaSyDM5RRFxb2AtRqcwozAbzCYNEMIZYY2eOU';
+const API_KEY = 'YOUTUBE API KEY HERE';;;;;;;;;;;;;;
 
 export default class App extends Component {
   state = {
